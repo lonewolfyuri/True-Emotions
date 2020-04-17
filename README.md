@@ -1,6 +1,6 @@
 # Emotion Classification Through Deep Learning #
 
-* Our team is working on an Emotion Classification System that:
+### Our team is working on an Emotion Classification System that: ###
   
   * takes as input an image of a face
   
