@@ -4,6 +4,6 @@
   
   * takes as input an image of a face
   
-  * through deep learning, classifies the emotion the face is currently feeling
+  * through deep learning, classifies the emotion that the face is currently feeling
   
   * outputs this emotion
